@@ -1,2 +1,2 @@
 Je volgt voor deze oefening het stappenplan dat je vind op deze [webpagina](https://projects.raspberrypi.org/en/projects/about-me).
-Het stappenplan vraagt om te werken in trinket.io, maar jij werkt gewoon in dodona hieronder.
+Het stappenplan vraagt om te werken in trinket.io, maar jij werkt gewoon in dodona hieronder. Je hoeft dus geen **#!/bin/python3** regel te hebben.
