@@ -1,5 +1,6 @@
 #Sommen en datums
 Python is geweldig in het werken met getallen en datums.
+
 ![hello world](https://projects-static.raspberrypi.org/projects/hello-world/81484a44b560475405bb82029dc81d0337f660cf/nl-NL/images/sums_dates.png)
 In Python kun je wiskundige operatoren gebruiken om sommen te maken:
 | operator | beschtrijving |
