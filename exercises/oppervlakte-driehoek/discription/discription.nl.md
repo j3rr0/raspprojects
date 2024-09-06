@@ -1,0 +1,2 @@
+Voor deze opdracht volg je [dit stappenplan](https://projects.raspberrypi.org/nl-NL/projects/deck-of-cards/0).
+Je gebruikt dodona om deze opdracht te maken en in te dienen, je moet python dus niet nog eens downloaden.
