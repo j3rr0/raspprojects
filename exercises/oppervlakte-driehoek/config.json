@@ -1,13 +1,10 @@
 {
-    "description": {
-      "names": {
-        "nl": "oppervlakte_driehoek"
-      }
-    },
-    "evaluation": {
-      "handler": "tested",
-      "test_suite": "suite.yaml"
-    },
-    "programming_language": "python",
-    "access": "private"
-  }
+  "description": {
+    "names": {
+      "en": "Een spel kaarten",
+      "nl": "Een spel kaarten"
+    }
+  },
+  "programming_language": "python",
+  "access": "private"
+}
