@@ -1,0 +1,10 @@
+{
+  "description": {
+    "names": {
+      "en": "Teamkiezer",
+      "nl": "Teamkiezer"
+    }
+  },
+  "programming_language": "python",
+  "access": "private"
+}
