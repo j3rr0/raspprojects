@@ -1,10 +1,10 @@
 {
-    "description": {
-      "names": {
-        "en": "newton",
-        "nl": "newton"
-      }
-    },
-    "programming_language": "python",
-    "access": "private"
-  }
+  "description": {
+    "names": {
+      "en": "newton",
+      "nl": "newton"
+    }
+  },
+  "programming_language": "python",
+  "access": "private"
+}
